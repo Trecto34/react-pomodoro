@@ -1,0 +1,37 @@
+.pomodoro-container {
+  text-align: center;
+}
+
+.working {
+  padding-bottom: 6.6rem;
+}
+
+.timer {
+  border: 8px solid rgba(255, 255, 255, 0.1);
+  border-radius: 1.4rem;
+  background-color: rgba(255, 255, 255, 0.2);
+  text-align: center;
+  font-size: 9rem;
+  font-weight: bold;
+}
+
+.details {
+  padding-top: 3rem;
+  align-items: center;
+}
+
+.controls {
+  display: flex;
+
+  justify-content: space-around;
+  padding-top: 3.5rem;
+  padding-bottom: 1.5rem;
+
+  align-items: center;
+}
+
+button {
+  border-radius: 0.4rem;
+  border: 0.2rem;
+  padding: 1rem;
+}
